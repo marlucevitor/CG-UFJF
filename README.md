@@ -18,4 +18,4 @@ O problema abordado consistiu na criação de um protótipo com alguns elementos
  8. Movimentação;
  9. Gameplay.
  
-O projeto foi um trabalho conjunto de : Ana Beatriz Kapps, Lais linhares e Marluce Vitor. 
+O projeto foi um trabalho conjunto de : Ana Beatriz Kapps, Lais linhares e Marluce Vitor com a finalizadade de aplicar todo o conteúdo ensinado na disciplina.
